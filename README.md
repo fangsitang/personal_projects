@@ -4,10 +4,10 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 
 Here's a snapshot of my positions so far :
 
-| Asset Type | Book Value | Market Value | P&L |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Asset Type   | Book Value     | Market Value  | P&L  |  
+| :---         |     :---:      |          ---: | ---: |
+| git status   | git status     | git status    |   |
+| git diff     | git diff       | git diff      | |
 
 
 📈 Stocks Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf))
