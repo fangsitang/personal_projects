@@ -2,7 +2,7 @@
 
 I'm a big fan of investing and trading. I began my journey in 2018, but things really kicked off in 2023!
 
-Here's a snapshot of my positions so far :
+Here's a snapshot of my positions so far, as of December 2024 👇
 
 | Asset   | Book Value     | Market Value  | P&L  |  
 | :---:  |  :---: |  :---: | :---: |
@@ -14,5 +14,8 @@ Here's a snapshot of my positions so far :
 | BTC    | 605.90     | 2,280.21    | 373% |
 
 
-📈 Stocks Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf))
+
+You can checkout my brokerage statement:
+
+📈 Stocks Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf)\
 🪙 Crypto Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)
