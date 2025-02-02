@@ -10,7 +10,6 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 | C    | 132.73      | 199.89    | 51% |
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
-| BTC    | 605.90     | 2,280.21    | 373% |
 
 You can checkout my brokerage statements if you'd like:
 
