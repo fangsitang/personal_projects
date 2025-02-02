@@ -6,7 +6,7 @@ Here's a snapshot of my positions so far :
 
 | Asset   | Book Value     | Market Value  | P&L  |  
 | :---:  |  :---: |  :---: | :---: |
-| PALANTIR   | 5,515.03     | 14,754.71    | 267%  |
+| PLTR   | 5,515.03     | 14,754.71    | 267%  |
 | TESLA    | 978.26       | 1,450.70     | 48% |
 | BAC    | 105.62    | 148.97    | 42% |
 | C    | 132.73      | 199.89    | 51% |
