@@ -14,5 +14,5 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 You can checkout my statements if you'd like:
 
 📈 Stocks Investing → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf)\
-🪙 Crypto Investing → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)
-🪙 Futures Trading → *To be posted EOY*.
+🪙 Crypto Investing → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)\
+🌱 Futures Trading → *To be posted EOY*.
