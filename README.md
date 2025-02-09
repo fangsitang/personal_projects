@@ -11,7 +11,7 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-To determine my positions, I use fundamental analysis and machine learning methods.\
+To determine my positions, I use fundamental analysis and machine learning methods! Sometimes, a little bit of statistics / mathematics.
 
 You can checkout my statements if you'd like:
 
