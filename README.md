@@ -11,9 +11,8 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-I mostly use fundamental analysis to determine my positions. \
-
 You can checkout my statements if you'd like:
 
-📈 Stocks Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf)\
-🪙 Crypto Portfolio → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)
+📈 Stocks Investing → [See Brokerage Statement](brokerage_statements/Nov_2024_WealthSimple.pdf)\
+🪙 Crypto Investing → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)
+🪙 Futures Trading → *To be posted EOY*.
