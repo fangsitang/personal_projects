@@ -1,6 +1,6 @@
 # Personal Investing 🚀
 
-I'm a big fan of investing and trading. I began my journey in 2018, but things really kicked off in 2023. Here's a snapshot of my positions so far, as of December 2024 👇
+I'm a big fan of investing and trading. I began my journey in 2018, but things really kicked off in 2023. Here's a snapshot of my positions so far, as of Jan 2025 👇
 
 | Asset   | Book Value     | Market Value  | YTD P&L  |  
 | :---:  |  :---: |  :---: | :---: |
