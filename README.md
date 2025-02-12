@@ -15,6 +15,6 @@ To determine my positions, I use fundamental analysis and machine learning metho
 
 You can checkout my statements if you'd like:
 
-📈 Stocks → [See Brokerage Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
-🪙 Crypto → [See Brokerage Statement](brokerage_statements/Nov_2024_Newton.pdf)\
+📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
+🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)\
 🌱 Futures → *I started futures trading in January 2025, so I'll post my returns this EOY*.
