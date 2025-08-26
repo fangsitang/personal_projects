@@ -1,6 +1,6 @@
 # Wealth Management and Investing 🚀
 
-Here's is a snapshot of the current positions in my portfolio 👇
+Here's is a snapshot of the current positions in my portfolio as of August 2025 👇
 
 | Stock   | Book Value     | Market Value  | CUM P&L  |  
 | :---:  |  :---: |  :---: | :---: |
@@ -14,9 +14,12 @@ Here's is a snapshot of the current positions in my portfolio 👇
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-🌱 These positions were selected after extensive research using a mix of DCF models, statistics, macroeconomic analysis and fundamental analysis. To see a sample stakeholder update deck, checkout : [See Deck](Decks/2025_outlook.pdf)
+🌱 These positions were selected after extensive research using a mix of DCF models, statistics, macroeconomic analysis and fundamental analysis. 
 
-You can checkout my brokerage statements too if you'd like:
+To see a summary deck, checkout : [Sample Deck](Decks/2025_outlook.pdf)
+
+To see brokerage statements, checkout :
+
 📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)
 
