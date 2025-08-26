@@ -1,6 +1,6 @@
-# Personal Investing 🚀
+# Wealth Management and Investing 🚀
 
-I'm a big fan of investing and trading. I began my journey in 2018, but things really kicked off in 2023. Here's a snapshot of my positions so far, as of Jan 2025 👇
+Here's is a snapshot of the current positions in my portfolio 👇
 
 | Asset   | Book Value     | Market Value  | YTD P&L  |  
 | :---:  |  :---: |  :---: | :---: |
@@ -11,10 +11,10 @@ I'm a big fan of investing and trading. I began my journey in 2018, but things r
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-To determine my positions, I use fundamental analysis and machine learning methods! Sometimes, a little bit of probability & statistics.
+These positions were selected with extensive research using CFD models, statistics, macroeconomic analysis and fundamental analysis. To see a sample stakeholder update deck, checkout :
 
 You can checkout my statements if you'd like:
 
 📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)\
-🌱 Futures → *I started futures trading in January 2025, so I'll post my returns this EOY*.
+
