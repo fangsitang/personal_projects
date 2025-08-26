@@ -14,7 +14,7 @@ Here's is a snapshot of the current positions in my portfolio as of August 2025 
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-🌱 These positions were selected after extensive research using a mix of macroeconomic analysis, fundamental research and top-down analysis.
+🌱 These positions were selected after extensive research using a mix of macroeconomic analysis, fundamental research and top-down analysis. Besides from stocks, I also use covered calls to generate income, single-leg call options to capture upside and single-leg puts for downside protection.
 
 To see a summary deck, checkout : [Sample Deck](Decks/2025_outlook.pdf)
 
