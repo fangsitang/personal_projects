@@ -11,10 +11,9 @@ Here's is a snapshot of the current positions in my portfolio 👇
 | ETH    | 1,935.50      | 3,744.13    | 93% |
 | BTC    | 605.90     | 2,280.21    | 373% |
 
-These positions were selected with extensive research using CFD models, statistics, macroeconomic analysis and fundamental analysis. To see a sample stakeholder update deck, checkout :
+🌱 These positions were selected after extensive research using a mix of DCF models, statistics, macroeconomic analysis and fundamental analysis. To see a sample stakeholder update deck, checkout : [See Deck](Decks/2025_outlook.pdf)
 
-You can checkout my statements if you'd like:
-
+You can checkout my brokerage statements too if you'd like:
 📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)\
 
