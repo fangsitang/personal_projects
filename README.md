@@ -15,5 +15,5 @@ Here's is a snapshot of the current positions in my portfolio 👇
 
 You can checkout my brokerage statements too if you'd like:
 📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
-🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)\
+🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)
 
