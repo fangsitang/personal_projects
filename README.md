@@ -20,6 +20,6 @@ To see a summary deck, checkout : [Sample Deck](Decks/2025_outlook.pdf)
 
 To see brokerage statements, checkout :
 
-📈 Stocks → [See Statement](brokerage_statements/statement_jan_2025_wealthsimple.pdf)\
+📈 Stocks → [See Statement](brokerage_statements/brokerage_statement_july_2025.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)
 
