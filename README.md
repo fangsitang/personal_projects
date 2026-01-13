@@ -2,12 +2,12 @@
 
 Here's is a snapshot of the current positions in my portfolio as of January 2026 😄
 
-| Stock | Book Value | Market Value | Cum P&L | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| PLTR | 7,448.36 | 36,609.69 | 392% | Open |
-| TESLA | 1,436.70 | 1,707.07 | 19% | Open |
-| BAC | 105.62 | 150.82 | 43% | Open |
-| C | 132.73 | 264.37 | 106% | Open |
+**| Stock | Book Value | Market Value | Cum P&L | Status | Price Target |**
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| PLTR | 7,448.36 | 36,609.69 | 392% | Open | 100, 150, 200 |
+| TESLA | 1,436.70 | 1,707.07 | 19% | Open | 350, 450, 500 |
+| BAC | 105.62 | 150.82 | 43% | Open | NA |
+| C | 132.73 | 264.37 | 106% | Open | NA |
 | NVDA | 1,001.16 | 1,231.21 | 23% | Closed | 
 | TSM | 1,493.87 | 1,672.49 | 12% | Closed |
 | ANET | 1,481.45 | 1,876.44 | 27% | Closed |
@@ -16,11 +16,10 @@ Here's is a snapshot of the current positions in my portfolio as of January 2026
 
 All-time cum returns: +400%
 
-🌱 I enter positions based on that specific instrument's market fundamentals and adjust position sizing based on risk-reward.\
-⚡️ I started options trading mid-2025, so I'll post my results mid-2026.
+🌱 I enter positions based on that specific instrument's market fundamentals and adjust position sizing based on risk-reward. I have a stop-loss, take-profit and scaling system that I use too.
 
 To see my brokerage statements, checkout :
 
 📈 Stocks → [See Statement](brokerage_statements/Brokerage_Statement_Stocks_122025.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)
-
+⚡️ Options → Started mid-2025, so I'll post my results mid-2026.
