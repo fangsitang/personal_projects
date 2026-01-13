@@ -21,6 +21,6 @@ All-time cum returns: +400%
 
 To see my brokerage statements, checkout :
 
-📈 Stocks → [See Statement](brokerage_statements/Brokerage Statement_Stocks_122025.pdf)\
+📈 Stocks → [See Statement](brokerage_statements/Brokerage_Statement_Stocks_122025.pdf)\
 🪙 Crypto → [See Statement](brokerage_statements/Nov_2024_Newton.pdf)
 
